@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "id":"1",
+      "first_name":"Trueman",
+      "last_name":"Ringer",
+      "email":"tringer0@ucoz.ru",
+      "gender":"Female",
+      "phone":"(977) 1311126",
+      "avatar":"https://randomuser.me/api/portraits/women/34.jpg"
+    },
+    {"id":"2","first_name":"Rustie","last_name":"Dillway","email":"rdillway1@cafepress.com","gender":"Female","phone":"(926) 1542881","avatar":"https://randomuser.me/api/portraits/women/49.jpg"},
+    {"id":"3","first_name":"Loria","last_name":"Lafay","email":"llafay2@sourceforge.net","gender":"Female","phone":"(468) 6850984","avatar":"https://randomuser.me/api/portraits/women/77.jpg"},
+    {"id":"4","first_name":"Sutherlan","last_name":"Glencrosche","email":"sglencrosche3@yahoo.co.jp","gender":"Male","phone":"(857) 6893944","avatar":"https://randomuser.me/api/portraits/men/81.jpg"},
+    {"id":"5","first_name":"Bridgette","last_name":"Quinane","email":"bquinane4@umn.edu","gender":"Male","phone":"(870) 5503154","avatar":"https://randomuser.me/api/portraits/men/83.jpg"},
+    {"id":"6","first_name":"Willy","last_name":"Soffe","email":"wsoffe5@flickr.com","gender":"Male","phone":"(143) 7665301","avatar":"https://randomuser.me/api/portraits/men/85.jpg"},
+    {"id":"7","first_name":"Buddy","last_name":"Millea","email":"bmillea6@slate.com","gender":"Male","phone":"(113) 6732630","avatar":"https://randomuser.me/api/portraits/men/80.jpg"},
+    {"id":"8","first_name":"Betteann","last_name":"Blackford","email":"bblackford7@who.int","gender":"Male","phone":"(433) 6233353","avatar":"https://randomuser.me/api/portraits/men/12.jpg"},
+    {"id":"9","first_name":"Kellina","last_name":"Baudino","email":"kbaudino8@pcworld.com","gender":"Male","phone":"(776) 8158588","avatar":"https://randomuser.me/api/portraits/men/20.jpg"},
+    {"id":"10","first_name":"Pippy","last_name":"MacParlan","email":"pmacparlan9@e-recht24.de","gender":"Male","phone":"(837) 1808875","avatar":"https://randomuser.me/api/portraits/men/30.jpg"}
+  ]
+}
