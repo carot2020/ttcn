@@ -24,4 +24,8 @@ class Customer {
     );
   }
 
+  @override
+  String toString() {
+    return 'Customer{id: $id, fname: $fname, lname: $lname, gender: $gender, email: $email, phone: $phone, avatar: $avatar}';
+  }
 }

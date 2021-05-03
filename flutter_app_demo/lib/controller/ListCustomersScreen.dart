@@ -23,12 +23,12 @@ class _ListCustomerScreenState extends State<ListCustomerScreen> {
   void initState() {
     // TODO: implement initState
     super.initState();
-
+    readDataFromAssets();
   }
 
   @override
   Widget build(BuildContext context) {
-    readDataFromAssets();
+
     return Scaffold(
         appBar: AppBar(title: const Text('Customer Lists'),actions: [
           IconButton(
@@ -104,5 +104,6 @@ class _ListCustomerScreenState extends State<ListCustomerScreen> {
   void readDataFromAssets() async{
     String data = await DefaultAssetBundle.of(context).loadString("assets/customers.json");
     customerList.addAll(Ultilities().getCustomer(data));
+    print(customerList[0].toString());
   }
 }
